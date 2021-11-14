@@ -12,6 +12,13 @@ undoing --
 
 command - checkout --filename 
 ( deleting uncommitted chnages )
+  
+  created new branch with name 
+  Practice_copy
 
+<<<<<<< HEAD
 In main Branch
  need to work on merge
+=======
+  its intersting 
+>>>>>>> Practiice_copy
