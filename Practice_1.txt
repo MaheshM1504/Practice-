@@ -3,3 +3,7 @@ practice session ..
 
 " Git hub is interesting "
 	need some more practice :
+" Testing some more git commands
+-> Undoing 
+-> Reverting
+-> Resetting
