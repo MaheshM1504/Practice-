@@ -12,4 +12,8 @@ undoing --
 
 command - checkout --filename 
 ( deleting uncommitted chnages )
+  
+  created new branch with name 
+  Practice_copy
 
+  its intersting 
