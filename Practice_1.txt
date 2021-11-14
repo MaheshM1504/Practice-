@@ -13,3 +13,5 @@ undoing --
 command - checkout --filename 
 ( deleting uncommitted chnages )
 
+In main Branch
+ need to work on merge
