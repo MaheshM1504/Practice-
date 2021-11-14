@@ -7,3 +7,9 @@ practice session ..
 -> Undoing 
 -> Reverting
 -> Resetting
+
+undoing --
+
+command - checkout --filename 
+( deleting uncommitted chnages )
+
